@@ -1,0 +1,1 @@
+sass --watch C:\Users\DOLPHIN\Desktop\DROPdownW3school\sass\style.scss:C:\Users\DOLPHIN\Desktop\DROPdownW3school\css\style.css
